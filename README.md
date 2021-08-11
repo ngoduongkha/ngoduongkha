@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<!--
-**ngoduongkha/ngoduongkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kevin Patel </h1>
 
-Here are some ideas to get you started:
+<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/ngoduongkha/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoduongkha&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ngoduongkha&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=ngoduongkha&theme=chartreuse-dark"></p>
+
+### 🛠 &nbsp;Tech Stack
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="https://www.facebook.com/ngoduongkha/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
