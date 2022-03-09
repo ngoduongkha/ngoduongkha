@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/ngoduongkha/ngoduongkha/blob/master/assets/coding.gif" width="50%" height="50%"></p>
+<lottie-player src="./assets/programming-computer.json" background="transparent"  speed="1"  style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kha </h1>
 
