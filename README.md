@@ -24,3 +24,5 @@
 <a href="mailto:ngoduongkhakg2001@gmail.com"><img src="https://img.shields.io/badge/-ngoduongkhakg2001@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/ngoduongkha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+![snake gif](https://github.com/ngoduongkha/ngoduongkha/assets/github-contribution-grid-snake.gif)
