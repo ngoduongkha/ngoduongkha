@@ -2,11 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kha </h1>
 
 <p align="center" width="150px">I'm a software engineering student at UIT - VNUHCM.</p>
-<p align="center"><img src="https://github.com/ngoduongkha/ngoduongkha/blob/master/assets/coding.gif" width="50%" height="50%"></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kha </h1>
-
-<p align="center" width="150px">I'm a software engineering student at UIT - VNUHCM.</p>
-
+<a href="https://app.daily.dev/khaproandpro"><img src="https://api.daily.dev/devcards/937f8477d78a49d089a14ac9b3d41ff1.png?r=6tz" width="400" alt="Kha Ngô Dương's Dev Card"/></a>
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/ngoduongkha/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoduongkha&layout=compact&hide=TSQL&theme=radical"></p>
